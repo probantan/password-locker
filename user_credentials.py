@@ -25,7 +25,7 @@ class User:
 		'''
 		Function to save a newly created user instance
 		'''
-		User.users_list.append
+		User.users_list.append(self)
 		
 class Credential:
 	'''
