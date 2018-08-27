@@ -2,7 +2,7 @@
 
 ## Author
 
-Protus Bantan
+ 
 
 ## Description of my application
 This application helps the user to store, create new credentials for their variors accounts...It is a terminal based application for python.
