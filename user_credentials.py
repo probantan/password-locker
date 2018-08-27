@@ -27,7 +27,8 @@ class User:
 		'''
 		User.users_list.append(self)
 		
-class Credential:
+class 
+:
 	'''
 	Class to create  account credentials, generate passwords and save their information
 	'''
