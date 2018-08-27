@@ -28,5 +28,5 @@ $ cd Password-Locker
 * pip
 
 ## License
-
+Copyright (c) {2018} **{Moringa School}**
 
