@@ -21,7 +21,7 @@ class User:
 		self.last_name = last_name
 		self.password = password
 
-	def save_
+	def save_user(self):
 		'''
 		Function to save a newly created user instance
 		'''
